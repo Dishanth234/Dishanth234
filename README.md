@@ -33,19 +33,38 @@ My work centers on identifying **cloud misconfigurations**, performing **risk an
 
 ## Technical Focus
 
-### Cloud & Application Security (AWS)
-- Identity & access management (IAM, least privilege, MFA)
-- Secure serverless architectures (Lambda, API Gateway, DynamoDB)
-- Data protection: encryption at rest (AES-256) and in transit (TLS)
-- Edge security and application hardening (CloudFront, WAF)
-- Logging, monitoring, and alerting (CloudTrail, CloudWatch, SNS)
+<div align="center">
 
-### Security Operations & Detection
-- Risk assessment and threat modeling
-- Incident response fundamentals and attack-path analysis
-- SIEM platforms: Splunk, Elastic (ELK)
-- Network visibility and traffic analysis (Wireshark, IDS/IPS concepts)
-- Offensive security tooling: Nmap, Metasploit, Burp Suite
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Application Security
+- Secure cloud architecture and misconfiguration analysis  
+- Identity and access control (IAM, least privilege, MFA)  
+- Serverless security (Lambda, API Gateway, DynamoDB)  
+- Data protection: encryption, key management, secure APIs  
+- Edge and application hardening (WAF, CloudFront)  
+- Security logging, monitoring, and alerting pipelines  
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Detection, Risk & Operations
+- Threat modeling and attack-path analysis  
+- Cloud and application risk assessments  
+- Detection engineering aligned to attacker behavior  
+- Incident response workflows and alert triage  
+- SIEM-based analysis (Splunk, Elastic)  
+- Network traffic visibility and investigation  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -65,19 +84,19 @@ My work centers on identifying **cloud misconfigurations**, performing **risk an
 ## Selected Projects
 
 ### AI-Driven Cloud Security Posture & Deception Platform
-- Conducted comprehensive security assessments across **IAM, S3, EC2, Security Groups, Lambda, and RDS**
-- Identified misconfigurations and attack paths using structured **risk matrices**
+- Conducted security assessments across **IAM, S3, EC2, Security Groups, Lambda, and RDS**
+- Identified misconfigurations and attack paths using structured risk matrices
 - Mapped findings to **MITRE ATT&CK techniques** and **CIS Benchmarks**
-- Designed and deployed **deception mechanisms (honeypots)** to observe attacker behavior and lateral movement
-- Improved detection workflows and alert fidelity to support faster response
-- Aligned security posture with **HIPAA, PCI DSS, SOC 2, ISO 27001, and GDPR**
+- Designed and deployed **deception mechanisms (honeypots)** to observe attacker behavior
+- Improved detection workflows to support faster response
+- Aligned cloud security posture with **HIPAA, PCI DSS, SOC 2, ISO 27001, and GDPR**
 
 ---
 
 ### Secure Serverless Applications on AWS
 - Designed and deployed secure, scalable serverless architectures
 - Implemented **Cognito-based authentication with MFA** and strict IAM policies
-- Applied **OWASP Top 10** mitigations using WAF rules, rate limiting, and secure API patterns
+- Applied **OWASP Top 10** mitigations using WAF rules, throttling, and secure API design
 - Ensured strong data protection through encryption and controlled access
 - Enabled centralized auditing and monitoring using CloudTrail and CloudWatch
 
@@ -87,9 +106,9 @@ My work centers on identifying **cloud misconfigurations**, performing **risk an
 
 **Full Stack Developer — Mars Infosal**  
 *Sep 2023 – Jun 2024*
-- Developed responsive web applications with a focus on secure UI patterns
+- Developed responsive web applications with secure UI patterns
 - Applied defensive design techniques to mitigate UI redress and client-side risks
-- Improved input handling and interaction flows to reduce unsafe DOM behavior
+- Improved input handling to reduce unsafe DOM behavior
 
 ---
 
