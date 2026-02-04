@@ -4,7 +4,7 @@
 
 # Dishanth Chinnappa Naidu Anil Kumar
 
-**MS Cybersecurity (May 2026) • Security Intern • Cloud Security • AppSec • Detection & Risk**
+**MS Cybersecurity (May 2026) • Security Intern • Cloud & Application Security • Detection Engineering**
 
 Jersey City, NJ • dchinnap@mail.yu.edu
 
@@ -12,10 +12,10 @@ Jersey City, NJ • dchinnap@mail.yu.edu
   <img src="https://img.shields.io/badge/LinkedIn-dishanth--ca-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 <a href="https://dishanthca.com/">
-  <img src="https://img.shields.io/badge/Website-dishanthca.com-111111?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-dishanthca.com-111111?logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:dchinnap@mail.yu.edu">
-  <img src="https://img.shields.io/badge/Email-dchinnap@mail.yu.edu-EA4335?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
 </a>
 
 <br/>
@@ -25,37 +25,27 @@ Jersey City, NJ • dchinnap@mail.yu.edu
 ---
 
 ## About
-I’m a cybersecurity graduate student focused on **cloud security, secure architecture, and detection engineering**.  
-I’ve worked on **AWS risk assessments**, **threat modeling**, and mapping security findings to **MITRE ATT&CK** and **CIS Benchmarks**, with an emphasis on improving **MTTD/MTTR** through monitoring and alerting.
+I’m a cybersecurity graduate student with a strong focus on **cloud security architecture, application security, and detection engineering**.
 
-**Portfolio:** https://dishanthca.com/  
-**LinkedIn:** https://www.linkedin.com/in/dishanth-ca/
+My work centers on identifying **cloud misconfigurations**, performing **risk and threat assessments**, and translating security findings into **actionable detection and remediation strategies**. I have hands-on experience aligning security controls with **MITRE ATT&CK**, **CIS Benchmarks**, and regulatory frameworks, with the goal of reducing **mean time to detect (MTTD)** and **mean time to respond (MTTR)**.
 
 ---
 
-## Core Skills
-<table>
-  <tr>
-    <td valign="top" width="50%">
+## Technical Focus
 
-### Cloud & AppSec (AWS)
-- IAM, S3, EC2, Lambda, API Gateway, DynamoDB  
-- CloudFront, Cognito (MFA), WAF  
-- Encryption (AES-256), TLS, secure API patterns  
-- CloudTrail, CloudWatch, SNS (alerting)
+### Cloud & Application Security (AWS)
+- Identity & access management (IAM, least privilege, MFA)
+- Secure serverless architectures (Lambda, API Gateway, DynamoDB)
+- Data protection: encryption at rest (AES-256) and in transit (TLS)
+- Edge security and application hardening (CloudFront, WAF)
+- Logging, monitoring, and alerting (CloudTrail, CloudWatch, SNS)
 
-    </td>
-    <td valign="top" width="50%">
-
-### Security & Detection
-- Incident response, risk assessment, threat modeling  
-- SIEM: Splunk, ELK (Elastic)  
-- Network analysis: Wireshark, IDS/IPS basics  
-- Pentest tooling: Nmap, Metasploit, Burp Suite
-
-    </td>
-  </tr>
-</table>
+### Security Operations & Detection
+- Risk assessment and threat modeling
+- Incident response fundamentals and attack-path analysis
+- SIEM platforms: Splunk, Elastic (ELK)
+- Network visibility and traffic analysis (Wireshark, IDS/IPS concepts)
+- Offensive security tooling: Nmap, Metasploit, Burp Suite
 
 <div align="center">
 
@@ -72,36 +62,34 @@ I’ve worked on **AWS risk assessments**, **threat modeling**, and mapping secu
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### AI-Powered Cloud Security Posture & Deception Platform (Aug 2025 – Dec 2025)
-- Assessed AWS misconfigurations across **IAM, S3, EC2, SGs, Lambda, RDS**
-- Built threat scenarios + risk matrices, mapped to **MITRE ATT&CK** and **CIS**
-- Integrated **honeypots** to capture attacker behavior and lateral movement signals
-- Supported alerting + remediation workflows to improve **MTTD/MTTR**
-- Worked with compliance alignment: **HIPAA, PCI DSS, SOC 2, ISO 27001, GDPR**
-
-**Repo:** https://github.com/YOUR-USERNAME/cloud-security-posture
-
----
-
-### Secure Serverless Web Applications (Jun 2025 – Aug 2025)
-**(1) HIPAA-aligned medication reminder** • **(2) Multilingual translator**
-- Built secure serverless apps using **S3, CloudFront, API Gateway, Lambda, DynamoDB**
-- Implemented **Cognito (MFA)**, least privilege IAM, and secure API access
-- Data protection using **AES-256 at rest** + **TLS 1.2 in transit**
-- OWASP Top 10 hardening using **WAF** + throttling + secure frontend patterns
-- Monitoring and auditing via **CloudTrail/CloudWatch** with SNS alerts
-
-**Repo:** https://github.com/YOUR-USERNAME/secure-serverless-apps
+### AI-Driven Cloud Security Posture & Deception Platform
+- Conducted comprehensive security assessments across **IAM, S3, EC2, Security Groups, Lambda, and RDS**
+- Identified misconfigurations and attack paths using structured **risk matrices**
+- Mapped findings to **MITRE ATT&CK techniques** and **CIS Benchmarks**
+- Designed and deployed **deception mechanisms (honeypots)** to observe attacker behavior and lateral movement
+- Improved detection workflows and alert fidelity to support faster response
+- Aligned security posture with **HIPAA, PCI DSS, SOC 2, ISO 27001, and GDPR**
 
 ---
 
-## Experience
-**Full Stack Developer — Mars Infosal (Sep 2023 – Jun 2024)**  
-- Built responsive web apps using semantic HTML5/CSS with safer UI patterns  
-- Implemented UI hardening against clickjacking/UI-redress style risks  
-- Added controlled interaction logic to reduce unsafe DOM behaviors
+### Secure Serverless Applications on AWS
+- Designed and deployed secure, scalable serverless architectures
+- Implemented **Cognito-based authentication with MFA** and strict IAM policies
+- Applied **OWASP Top 10** mitigations using WAF rules, rate limiting, and secure API patterns
+- Ensured strong data protection through encryption and controlled access
+- Enabled centralized auditing and monitoring using CloudTrail and CloudWatch
+
+---
+
+## Professional Experience
+
+**Full Stack Developer — Mars Infosal**  
+*Sep 2023 – Jun 2024*
+- Developed responsive web applications with a focus on secure UI patterns
+- Applied defensive design techniques to mitigate UI redress and client-side risks
+- Improved input handling and interaction flows to reduce unsafe DOM behavior
 
 ---
 
@@ -122,7 +110,7 @@ I’ve worked on **AWS risk assessments**, **threat modeling**, and mapping secu
 
 ---
 
-### Quick Links
-- 🌐 Website: https://dishanthca.com/  
+### Connect
+- 🌐 Portfolio: https://dishanthca.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/dishanth-ca/  
 - 📧 Email: dchinnap@mail.yu.edu
