@@ -1,23 +1,161 @@
-## Hi there 👋
+<!-- ===========================
+     Dishanth • GitHub README
+=========================== -->
 
-# 💫 About Me:
-<br>I’m a Cybersecurity graduate student pursuing my Master’s in Cybersecurity at Yeshiva University, with a strong focus on defensive security, cloud security, and threat detection. I’m currently working as a Cybersecurity Intern at Cygeniq, where I gain hands-on experience in security operations, risk assessment, and real-world security challenges.<br><br>My background spans network security, SIEM analysis, cloud security posture management, and incident response, supported by practical experience with tools like Splunk, ELK Stack, Wireshark, Metasploit, and Kali Linux. I enjoy analyzing threats, identifying vulnerabilities, and building secure systems that align with industry frameworks such as NIST, MITRE ATT&CK, CIS Benchmarks, and ISO 27001.<br><br>I’ve worked on projects involving AI-driven cloud security, serverless application security, deception technologies (honeypots), and compliance-focused architectures, particularly within AWS environments. These experiences strengthened my understanding of IAM hardening, threat modeling, secure API design, and continuous monitoring.<br><br>With a foundation in computer science and full-stack development, I bring a developer’s mindset to security—focusing not just on finding issues, but on designing secure, scalable, and resilient solutions. I’m passionate about continuous learning, hands-on experimentation, and contributing to teams that take security seriously.<br><br>I’m currently early in my cybersecurity career and actively looking to grow in areas such as SOC operations, cloud security, detection engineering, and blue team defense, while learning from experienced professionals in the field.
+<h1 align="center">Dishanth Chinnappa Naidu Anil Kumar</h1>
+<p align="center">
+  <b>Cybersecurity (MS) • Security Intern • Cloud Security • AppSec • Detection & Risk</b>
+</p>
 
+<p align="center">
+  📍 Jersey City, NJ • 🎓 MS Cybersecurity (May 2026)
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dishanthk02@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dishanth234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dishanth234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishanth234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dishanth-ca/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dishanthca.com/">
+    <img src="https://img.shields.io/badge/Website-dishanthca.com-000000?logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dchinnap@mail.yu.edu">
+    <img src="https://img.shields.io/badge/Email-dchinnap@mail.yu.edu-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Security%20Opportunities-22c55e?logo=shield&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dishanth234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+I’m a Master’s student in **Cybersecurity** with hands-on experience in **cloud security, detection engineering, risk assessment, and secure application design**.
+
+I build **defensive systems**, analyze misconfigurations, map findings to frameworks like **MITRE ATT&CK & CIS**, and improve detection workflows (MTTD/MTTR).
+
+> 🌐 Personal Website: **https://dishanthca.com/**  
+> 💼 LinkedIn: **https://www.linkedin.com/in/dishanth-ca/**
+
+---
+
+## 🧩 Skills Snapshot
+
+### 🔐 Security & Defense
+<p>
+  <img src="https://img.shields.io/badge/Incident%20Response-111?logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk%20Assessment-111?logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Modeling-111?logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Management-111?logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure%20Architecture-111?logo=googlecloud&logoColor=white" />
+</p>
+
+### ☁️ Cloud & AppSec (AWS)
+<p>
+  <img src="https://img.shields.io/badge/IAM-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-232F3E?logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-232F3E?logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-232F3E?logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTrail-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-232F3E?logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAF-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cognito%20(MFA)-232F3E?logo=amazonaws&logoColor=white" />
+</p>
+
+### 🛰️ Detection & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/SIEM-Splunk-111?logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-Elastic-111?logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-111?logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-111?logo=protonvpn&logoColor=white" />
+</p>
+
+### 🧪 Offensive & Testing
+<p>
+  <img src="https://img.shields.io/badge/Nmap-111?logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-111?logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-111?logo=burpsuite&logoColor=white" />
+</p>
+
+### 🧾 Frameworks & Compliance
+<p>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-111?logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/CIS%20Benchmarks-111?logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST-111?logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HIPAA-111" />
+  <img src="https://img.shields.io/badge/PCI%20DSS-111" />
+  <img src="https://img.shields.io/badge/SOC%202-111" />
+  <img src="https://img.shields.io/badge/ISO%2027001-111" />
+  <img src="https://img.shields.io/badge/GDPR-111" />
+</p>
+
+### 💻 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-111?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-111?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-111?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20ACE-111?logo=ibm&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🕵️ AI-Powered Cloud Security Posture & Deception Platform
+- Cloud misconfiguration detection & risk assessment across AWS
+- Threat modeling for IAM, S3, EC2, Lambda, SGs, RDS
+- Mapped threats to **MITRE ATT&CK** and **CIS Benchmarks**
+- Integrated honeypots for attacker behavior capture
+- Reduced MTTD/MTTR via alerting + remediation
+- Compliance alignment: HIPAA, PCI DSS, SOC 2, ISO 27001, GDPR
+
+🔗 Repo: https://github.com/YOUR-USERNAME/cloud-security-posture
+
+---
+
+### 🔒 Secure Serverless Web Applications
+- HIPAA-aligned medication reminder + serverless translator
+- AWS: S3, CloudFront, API Gateway, Lambda, DynamoDB
+- Cognito (MFA), AES-256 encryption, TLS 1.2
+- OWASP Top 10 mitigations: WAF + throttle
+- Monitoring: CloudTrail, CloudWatch, SNS
+
+🔗 Repo: https://github.com/YOUR-USERNAME/secure-serverless-apps
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer — Mars Infosal
+- Built secure responsive web apps (semantic HTML5 + CSS)
+- UI hardening against clickjacking & DOM risks
+- Security-aware JS logic for controlled interactions
+
+---
+
+## 🏆 Achievements
+- 🥈 **2nd Place — Capture The Flag (CTF), Yeshiva University**
+
+---
+
+## 🎓 Education
+- **MS Cybersecurity**, Yeshiva University (May 2026)  
+- **BTech Computer Science**, Presidency University
+
+---
+
+## 📌 Quick Links
+- 🌐 Website: https://dishanthca.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/dishanth-ca/
+- 📧 Email: dchinnap@mail.yu.edu
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" />
+</p>
