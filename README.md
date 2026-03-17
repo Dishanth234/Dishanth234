@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Dishanth Chinnappa Naidu Anil Kumar
+# Dishanth CA
 
 **MS Cybersecurity (May 2026) • Security Intern • Cloud & Application Security • Detection Engineering**
 
