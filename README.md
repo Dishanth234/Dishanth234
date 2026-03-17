@@ -6,7 +6,7 @@
 
 **MS Cybersecurity (May 2026) • Security Intern • Cloud & Application Security • Detection Engineering**
 
-Jersey City, NJ • dchinnap@mail.yu.edu
+Jersey City, NJ • dishanthk02@gmail.com
 
 <a href="https://www.linkedin.com/in/dishanth-ca/">
   <img src="https://img.shields.io/badge/LinkedIn-dishanth--ca-0A66C2?logo=linkedin&logoColor=white" />
