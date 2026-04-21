@@ -6,20 +6,16 @@
 
 <img src="https://github.com/Dishanth234.png" width="130" style="border-radius:50%"/>
 
-<h1>Dishanth CA</h1>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+LLM+Blue+Team+Security+Engineer+%F0%9F%94%90;Detection+Engineering+%7C+MITRE+ATT%26CK;GraphRAG+%7C+Vector+Stores+%7C+LLM+Alert+Triage;50%25+better+accuracy+%E2%80%94+40%25+faster+response;MS+Cybersecurity+%40+Yeshiva+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%26+LLM+Blue+Team+Security+Engineer+%F0%9F%94%90;Detection+Engineering+%7C+MITRE+ATT%26CK;GraphRAG+%7C+Vector+Stores+%7C+LLM+Alert+Triage;50%25+better+accuracy+%E2%80%94+40%25+faster+response;MS+Cybersecurity+%40+Yeshiva+University)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishanth-ca/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dishanthca.com/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishanthk02@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dishanth234&color=58a6ff&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Dishanth234?label=Followers&style=flat-square&color=58a6ff)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dishanth234&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Dishanth234)
 
 </div>
 
@@ -27,25 +23,29 @@
 
 ## 👾 About Me
 
-```yaml
-name:         Dishanth CA
-role:         AI & LLM Blue Team Security Engineer
-location:     Jersey City, NJ
-education:    MS Cybersecurity — Yeshiva University (May 2026)
+```bash
+┌──(dishanth㉿kali)-[~/profile]
+└─$ whoami
 
-currently_at:
-  - Cygeniq      → AI/LLM triage pipelines, GraphRAG, SIEM integrations
-  - Blueberries  → SOC 2 Type 2 compliance, AWS security posture
+  Dishanth CA  |  AI & LLM Blue Team Security Engineer
+  MS Cybersecurity @ Yeshiva University (May 2026)
+  Jersey City, NJ
 
-impact:
-  alert_triage_accuracy:    +50%  (across 10K+ security alerts)
-  investigation_time:       -40%  (via Neo4j GraphRAG + LLM agents)
-  soc2_compliance:          15% → 65%+ in < 1 month (71 Vanta controls)
+┌──(dishanth㉿kali)-[~/profile]
+└─$ cat current_roles.txt
 
-passion:
-  - Building AI that makes defenders faster than attackers
-  - MITRE ATT&CK aligned detection engineering
-  - Cloud misconfiguration analysis & threat modeling
+  [*] Cygeniq      →  AI/LLM triage pipelines · GraphRAG · SIEM integrations
+  [*] Blueberries  →  SOC 2 Type 2 compliance · AWS security posture
+
+┌──(dishanth㉿kali)-[~/profile]
+└─$ cat impact.log
+
+  [+] Alert triage accuracy   +50%   across 10K+ security alerts
+  [+] Mean investigation time -40%   via Neo4j GraphRAG + LLM agents
+  [+] SOC 2 compliance        15% ➜  65%+ in < 1 month (71 controls)
+
+┌──(dishanth㉿kali)-[~/profile]
+└─$ █
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -55,16 +55,55 @@ passion:
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,aws,docker,elasticsearch,postgres,neo4j,git,github,vscode&theme=dark&perline=6" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,linux,kali,aws,docker,git,github,postgres,vscode&theme=dark&perline=5"/></a>
 </p>
 
 <br/>
 
-| 🔵 SIEM & Detection | ☁️ Cloud & AppSec | 🔴 Offensive | 🤖 AI & Data |
-|:---|:---|:---|:---|
-| Splunk · ELK · QRadar | AWS IAM · S3 · EC2 · Lambda | Burp Suite · Metasploit | Neo4j · Weaviate |
-| Suricata · Wireshark | CloudTrail · CloudWatch · WAF | Nmap · Kali Linux | LLM Pipelines |
-| Sigma · ATT&CK Rules | API Gateway · DynamoDB | OWASP Top 10 | GraphRAG agents |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🔵 SIEM & Detection**
+
+Splunk · ELK · QRadar  
+Suricata · Wireshark  
+Sigma · ATT&CK Rules  
+Alert Triage
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud & AppSec**
+
+AWS IAM · S3 · EC2  
+Lambda · CloudTrail  
+API Gateway · WAF  
+CloudWatch · GuardDuty
+
+</td>
+<td align="center" width="25%">
+
+**🔴 Offensive**
+
+Burp Suite · Metasploit  
+Nmap · Kali Linux  
+OWASP Top 10  
+Pen Testing
+
+</td>
+<td align="center" width="25%">
+
+**🤖 AI & Data**
+
+Neo4j · Weaviate  
+Elasticsearch  
+LLM Pipelines  
+GraphRAG Agents
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -81,26 +120,16 @@ passion:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dishanth234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Dishanth234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Dishanth234&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dishanth234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Dishanth234&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dishanth234&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dishanth234&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&bg_color=0d1117"/>
 
 </div>
 
@@ -109,32 +138,32 @@ passion:
 ## 💼 Experience
 
 <details open>
-<summary><b>🔵 AI & LLM Blue Team Security Engineer Intern — Cygeniq</b> &nbsp;·&nbsp; Jan 2026 – Present</summary>
+<summary><b>🔵 AI & LLM Blue Team Security Engineer Intern — Cygeniq &nbsp;·&nbsp; Jan 2026 – Present</b></summary>
 <br/>
 
-- Improved alert triage accuracy by **50%** across 10K+ alerts — built a **Weaviate vector store** + Elasticsearch ingestion pipeline + reverse-engineered 34+ telemetry indices to power fine-tuned LLMs with MITRE ATT&CK and Sigma-backed threat explanations
+- Improved alert triage accuracy by **50%** across 10K+ alerts — built a **Weaviate vector store** + Elasticsearch ingestion pipeline, reverse-engineered 34+ telemetry indices to power fine-tuned LLMs with MITRE ATT&CK and Sigma-backed threat explanations
 - Reduced investigation time by **40%** by unifying 50+ data sources into a **Neo4j knowledge graph** with a **GraphRAG reasoning layer** — AI agents autonomously correlate alerts across attack stages
-- Built **QRadar SIEM integration** for Cybertix; validated MITRE ATT&CK TTP mappings for Suricata IDS alerts across Initial Access, Lateral Movement, and Exfiltration
+- Built **QRadar SIEM integration**; validated MITRE ATT&CK TTP mappings for Suricata IDS alerts across Initial Access, Lateral Movement, and Exfiltration
 
 <br/>
 </details>
 
 <details open>
-<summary><b>🟣 Security Compliance Analyst — Blueberries</b> &nbsp;·&nbsp; Mar 2026 – Present &nbsp;·&nbsp; New York</summary>
+<summary><b>🟣 Security Compliance Analyst — Blueberries &nbsp;·&nbsp; Mar 2026 – Present &nbsp;·&nbsp; New York</b></summary>
 <br/>
 
-- Drove **SOC 2 Type 2** program from **15% → 65%+** across 71 Vanta controls in under one month — remediated 9 failing policies, surfaced critical AWS gaps (CloudTrail, GuardDuty, VPC Flow Logs, IAM)
-- Audited GitHub and AWS infrastructure against SOC 2 logical access requirements; surfaced 10+ unresolved controls across access management, intrusion detection, and change management
+- Drove **SOC 2 Type 2** from **15% → 65%+** across 71 Vanta controls in under one month — remediated 9 failing policies, surfaced critical AWS gaps (CloudTrail, GuardDuty, VPC Flow Logs, IAM)
+- Audited GitHub and AWS against SOC 2 logical access requirements; surfaced 10+ unresolved controls across access management, intrusion detection, and change management
 
 <br/>
 </details>
 
 <details>
-<summary><b>⚪ Full Stack Developer — Mars Infosal</b> &nbsp;·&nbsp; Sep 2023 – Jun 2024 &nbsp;·&nbsp; Hyderabad</summary>
+<summary><b>⚪ Full Stack Developer — Mars Infosal &nbsp;·&nbsp; Sep 2023 – Jun 2024 &nbsp;·&nbsp; Hyderabad</b></summary>
 <br/>
 
-- Enforced application security controls (CSP, input validation, DOM hardening) to mitigate OWASP Top 10 risks
-- Integrated risk-aware authorization logic into a financial transaction system via least-privilege access controls
+- Enforced CSP, input validation, and DOM hardening to mitigate OWASP Top 10 risks including clickjacking and injection attacks
+- Integrated risk-aware least-privilege authorization into a financial transaction system
 
 <br/>
 </details>
@@ -148,17 +177,17 @@ passion:
 <td width="50%" valign="top">
 
 ### 🛡️ AI-Powered Cloud Security Posture & Deception Platform
-`Python` `AWS` `MITRE ATT&CK` &nbsp;·&nbsp; Aug – Dec 2025
+`Python` `AWS` `MITRE ATT&CK` &nbsp;·&nbsp; *Aug – Dec 2025*
 
-Cloud security platform combining AWS misconfiguration scanning (IAM, S3, EC2), AI-driven honeypot deployment for TTP capture, automated remediation, and real-time MITRE ATT&CK-mapped alerting.
+AWS misconfiguration scanning (IAM, S3, EC2), AI-driven honeypots for TTP capture, automated remediation, and real-time MITRE ATT&CK-mapped alerting.
 
 </td>
 <td width="50%" valign="top">
 
 ### ☁️ Secure Serverless Web Application
-`AWS` `AppSec` `HIPAA` &nbsp;·&nbsp; Jun – Aug 2025
+`AWS` `AppSec` `HIPAA` &nbsp;·&nbsp; *Jun – Aug 2025*
 
-Serverless architecture on AWS with least-privilege IAM, Cognito MFA, AES-256 at rest, TLS in transit, WAF, and full CloudTrail/CloudWatch/SNS observability stack aligned to HIPAA requirements.
+Serverless architecture with least-privilege IAM, Cognito MFA, AES-256 at rest, TLS in transit, WAF, and full CloudTrail/CloudWatch/SNS observability aligned to HIPAA.
 
 </td>
 </tr>
@@ -173,12 +202,12 @@ Serverless architecture on AWS with least-privilege IAM, Cognito MFA, AES-256 at
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)
 [![BTL-1](https://img.shields.io/badge/Security_Blue_Team-BTL--1-1E3A5F?style=for-the-badge)](https://securityblue.team/)
-[![CSAP](https://img.shields.io/badge/CSAP-Certified-4B0082?style=for-the-badge)](https://dishanthca.com)
+[![CSAP](https://img.shields.io/badge/CSAP-Certified-4B0082?style=for-the-badge)](#)
 [![Red Hat](https://img.shields.io/badge/Red_Hat-RH124-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
 
 <br/><br/>
 
-> 🥈 **2nd Place — Capture The Flag (CTF), Yeshiva University · Dec 2025**  
+> 🥈 **2nd Place — Capture The Flag (CTF), Yeshiva University &nbsp;·&nbsp; Dec 2025**  
 > Penetration testing and vulnerability exploitation
 
 </div>
