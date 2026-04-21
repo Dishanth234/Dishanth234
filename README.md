@@ -1,6 +1,6 @@
 <!-- GitHub Profile README — Dishanth CA -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:58a6ff&height=200&section=header&text=Dishanth%20CA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20LLM%20Blue%20Team%20Engineer%20%E2%80%A2%20Detection%20Engineering%20%E2%80%A2%20Cloud%20Security&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Dishanth%20CA&fontSize=62&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <div align="center">
 
@@ -187,4 +187,4 @@ Secure serverless architecture on AWS with least-privilege IAM, Cognito MFA, AES
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,60:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
