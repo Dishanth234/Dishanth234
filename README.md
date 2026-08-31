@@ -1,7 +1,8 @@
 <div align="center">
-<a href="https://dishanthca.com"><img src="./assets/banner.svg" width="100%" alt="dishanth ca"/></a>
+<a href="https://dishanthca.com"><img src="./assets/banner.svg" width="100%" alt="dishanth ca — CRT desktop"/></a>
+<img src="./assets/boot.svg" width="100%" alt="BIOS boot: 95% compliant, 0 threats surviving"/>
 <img src="./assets/divider.svg" width="100%"/>
-<a href="https://www.linkedin.com/in/dishanth-ca/"><img src="https://img.shields.io/badge/LinkedIn-%23000080.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="30"/></a>&nbsp;<a href="mailto:dishanthk02@gmail.com"><img src="https://img.shields.io/badge/Email-%23008080.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="30"/></a>&nbsp;<a href="https://dishanthca.com"><img src="https://img.shields.io/badge/Portfolio-%23C0C0C0.svg?style=for-the-badge&logo=safari&logoColor=111111" height="30"/></a>&nbsp;<a href="https://github.com/Dishanth234"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" height="30"/></a>
+<a href="https://www.linkedin.com/in/dishanth-ca/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;<a href="mailto:dishanthk02@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email"/></a>&nbsp;<a href="https://dishanthca.com"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio"/></a>&nbsp;<a href="https://github.com/Dishanth234"><img src="./assets/btn-github.svg" height="44" alt="GitHub"/></a>
 <img src="./assets/divider.svg" width="100%"/>
 <img src="./assets/about-terminal.svg" width="100%" alt="about"/>
 <img src="./assets/divider.svg" width="100%"/>
@@ -15,5 +16,6 @@
 <img src="./assets/divider.svg" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishanth234&background=C0C0C0&border=000000&stroke=000000&ring=000080&fire=FF8C00&currStreakNum=000000&sideNums=000000&currStreakLabel=000080&sideLabels=000080&dates=555555&border_radius=0" width="420" alt="streak"/>
 <img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/bsod.svg" width="100%" alt="blue screen: the intruder has been terminated"/>
 <img src="./assets/footer.svg" width="100%" alt="let's connect"/>
 </div>
