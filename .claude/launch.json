@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "readme-preview",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/chintu/Documents/GitHub/Dishanth234/.claude/serve.mjs"],
+      "port": 8642
+    }
+  ]
+}
